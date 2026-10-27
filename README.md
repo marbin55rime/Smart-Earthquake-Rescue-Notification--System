@@ -3,7 +3,7 @@ Smart Earthquake Survival Detection
 Prototype
 <img width="1600" height="1200" alt="Prototype" src="https://github.com/user-attachments/assets/f6f0aa86-2e1f-4cbc-b971-28950cfb0c37" />
 
- ![Prototype](prototype.jpg)
+ 
 A low-cost Arduino Uno prototype that detects earthquake shaking with an MPU6050, then scans three zones (PIR, sound and temperature sensors) for one minute and shows which zone to search first on a 16x2 LCD.
 
 Course: CSE360: Computer Interfacing, BRAC University | Group: 02 | Section: 10
