@@ -1,3 +1,6 @@
+Smart Earthquake Survival Detection
+
+Prototype
 <img width="1600" height="1200" alt="Prototype" src="https://github.com/user-attachments/assets/f6f0aa86-2e1f-4cbc-b971-28950cfb0c37" />
 
  ![Prototype](prototype.jpg)
