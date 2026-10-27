@@ -1,5 +1,5 @@
 Prototype
-![Prototype](images/prototype.jpg)
+ ![Prototype](prototype.jpg)
 A low-cost Arduino Uno prototype that detects earthquake shaking with an MPU6050, then scans three zones (PIR, sound and temperature sensors) for one minute and shows which zone to search first on a 16x2 LCD.
 
 Course: CSE360: Computer Interfacing, BRAC University | Group: 02 | Section: 10
